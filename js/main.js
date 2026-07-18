@@ -9,7 +9,7 @@ const channels = [
     { id: 'IhdMJerpMak', name: 'aula - 07' },
     { id: 'bz7tRRPFd7s', name: 'aula - 08' },
     { id: 'jRVAD7K1bDU', name: 'aula - 09' },
-    { id: 'NBUJHxwthHA', name: 'aula - 10' },
+    { id: 'NBUJHxwthHA', name: 'aula - 10' }
 ];
 
 // Estado atual
