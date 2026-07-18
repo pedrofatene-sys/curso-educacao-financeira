@@ -1,26 +1,15 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'ew96wSi0mCE', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 1' },
-    { id: 'AXFKaHqEXUc', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 2' },
-    { id: 't93FyKwCtjo', name: 'Princípios fundamentais: Princípios IMPLÍCITOS e EXPLÍCITOS' },
-    { id: 'q_ZMMxTnrOE', name: 'Direitos e Garantias Fundamentais' },
-    { id: 'YcF8MblD7xw', name: 'Garantias Fundamentais - Parte 2' },
-    { id: 'xaja8MkR-9s', name: 'Garantias Fundamentais - Parte 3' },
-    { id: '6u20d2lRDp8', name: 'Direitos Individuais e Coletivos - Parte 1' },
-    { id: 'NCwH8EIJYKY', name: 'Direitos Individuais e Coletivos - Parte 2' },
-    { id: 'af69nAmRUvQ', name: 'Remédios Constitucionais' },
-    { id: 'DlyJUYCeiGA', name: 'Direitos Sociais' },
-    { id: 'uz4K2abw--8', name: 'Direitos Sociais + QUESTÕES - Parte 2' },
-    { id: 'oDhBc411wjc', name: 'Nacionalidade - Parte 1' },
-    { id: 'UEf-WLDgfwI', name: 'Nacionalidade - Parte 2' },
-    { id: 'Xp4IsP6ATCM', name: 'DIREITOS POLITICOS - Parte 1' },
-    { id: 'QNf8UiSFHZ4', name: 'DIREITOS POLITICOS - Parte 2' },
-    { id: '0Lzwn9h8GvY', name: 'Organização do Estado - Parte 1' },
-    { id: 'vXEpO6zkG4g', name: 'Organização do Estado - Parte 2' },
-    { id: 'n3hhXNGONUM', name: 'Organização do Estado - Parte 3' },
-    { id: 'NqKgXA4C6P8', name: 'Organização do Estado - Parte 4' },
-    { id: '8fiHRgaQqhI', name: 'Organização do Estado - Parte 5' },
-    { id: 'KF4Qp-deTHU', name: 'Organização do Estado - Parte 6' }
+    { id: 'LakjhD7SWRE', name: 'Organizando os seus dados },
+    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
+    { id: 'd0jiLHJGRwM', name: 'aula - 03' },
+    { id: 'LAPHMHGdU3o', name: 'aula - 04' },
+    { id: '1fDOyVJFJko', name: 'aula - 05' },
+    { id: 'mpYZGktdB2k', name: 'aula - 06' },
+    { id: 'IhdMJerpMak', name: 'aula - 07' },
+    { id: 'bz7tRRPFd7s', name: 'aula - 08' },
+    { id: 'jRVAD7K1bDU', name: 'aula - 09' },
+    { id: 'NBUJHxwthHA', name: 'aula - 10' },
 ];
 
 // Estado atual
